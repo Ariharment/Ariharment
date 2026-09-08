@@ -1,6 +1,6 @@
 # ૮₍ ˃ ⤙ ˂ ₎ა Hi there!
 
-# ¡Hola! Soy Arianna ૮ ˶ᵔ ᵕ ᵔ˶ ა
+#Soy Arianna! ૮ ˶ᵔ ᵕ ᵔ˶ ა
 
 Estudiante de Ingeniería de Sistemas en últimos semestres, con un proyecto de investigación en curso.₊˚⊹♡
 
