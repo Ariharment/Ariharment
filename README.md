@@ -1,16 +1,13 @@
-## Hi there 👋
+# ૮₍ ˃ ⤙ ˂ ₎ა Hi there!
 
-<!--
-**Ariharment/Ariharment** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ¡Hola! Soy Arianna ૮ ˶ᵔ ᵕ ᵔ˶ ა
 
-Here are some ideas to get you started:
+Estudiante de Ingeniería de Sistemas en últimos semestres, con un proyecto de investigación en curso.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me gusta tener varios proyectos a la vez (lol) y también tengo experiencia en diferentes ámbitos del área, como ciencia de datos y analítica, machine learning, C#, Python, ciberseguridad y bases de datos.
+
+He trabajado con herramientas como **Oracle Data Modeler, MySQL Workbench y MongoDB**, además de tener experiencia desarrollando proyectos académicos y trabajando con diferentes tecnologías.
+
+También me gusta realizar planes de **elicitación de requerimientos** y abordar los retos a los que me enfrento mediante **análisis sistémicos**.
+
+Actualmente estoy explorando y fortaleciendo mis conocimientos en desarrollo de software, bases de datos, análisis, ciberseguridad e investigación. ✧
