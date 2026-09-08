@@ -11,3 +11,30 @@ He trabajado con herramientas como **Oracle Data Modeler, MySQL Workbench y Mong
 También me gusta realizar planes de **elicitación de requerimientos** y abordar los retos a los que me enfrento mediante **análisis sistémicos**. ⋆ ˚｡⋆୨୧˚
 
 Actualmente estoy explorando y fortaleciendo mis conocimientos en desarrollo de software, bases de datos, análisis, ciberseguridad e investigación. ✧
+
+## ˚₊‧꒰ა 💻 ໒꒱ ‧₊˚ Technologies & Tools
+
+### ✧ Languages
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#"/>
+</p>
+
+### ♡₊˚ ───────── ˚₊♡ Databases ♡₊˚ ───────── ˚₊♡
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="45" height="45" alt="Oracle"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
+</p>
+
+### ₊˚⊹ ───────── ⊹˚₊Tools & Environment ₊˚⊹ ───────── ⊹˚₊
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="45" height="45" alt="Anaconda"/>
+</p>
+
+˚₊‧꒰ა ☆ ໒꒱ ‧₊˚
