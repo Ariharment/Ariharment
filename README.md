@@ -12,9 +12,7 @@ También me gusta realizar planes de **elicitación de requerimientos** y aborda
 
 Actualmente estoy explorando y fortaleciendo mis conocimientos en desarrollo de software, bases de datos, análisis, ciberseguridad e investigación. ✧
 
-## ˚₊‧꒰ა 💻 ໒꒱ ‧₊˚ Technologies & Tools
-
-### ✧ Languages
+## ⋆｡°✩ ──── ✩°｡⋆Technologies & Tools⋆｡°✩ ──── ✩°｡⋆
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30" alt="Python"/>
@@ -23,15 +21,11 @@ Actualmente estoy explorando y fortaleciendo mis conocimientos en desarrollo de 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30" alt="SQL"/>
 </p>
 
-### ✧ Databases
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="30" height="30" alt="Oracle"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" height="30" alt="MongoDB"/>
 </p>
-
-### ✧ Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="30" alt="VS Code"/>
